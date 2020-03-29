@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:ui';
-import 'package:flutter_module/index.dart';
-import 'package:flutter_module_2/index.dart';
+import 'package:flutter_module/main.dart';
+import 'package:flutter_module_2/main.dart';
+
 
 void main() => runApp(_widgetForRoute(window.defaultRouteName));
 
