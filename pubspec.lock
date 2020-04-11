@@ -83,7 +83,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "1479b16a616e9410bb1882d22ac5540578b4db01"
+      resolved-ref: ca96be3b92535c6cb14f8943a4d5ac4bf22d5ad4
       url: "https://github.com/hwldzh/flutter_module_2.git"
     source: git
     version: "1.0.0+1"
